@@ -128,8 +128,13 @@ I am Mohammad Nazarkhani, a Computer Engineering student at National University 
 
 # Badges & Reputations
 
-<a href="https://stackoverflow.com/users/20936723/itsnazarkhani"><img src="https://stackoverflow.com/users/flair/20936723.png" width="208" height="58" alt="profile for ItsNazarkhani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ItsNazarkhani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<p align="center">
+  <a href="https://stackoverflow.com/users/20936723/itsnazarkhani">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=20936723&theme=dark" />
+  </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/6472177dc4ec366ad5aeffba?variant=dark&roadmaps=datastructures-and-algorithms" />
+  </a>
+</p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6472177dc4ec366ad5aeffba?variant=dark&roadmaps=datastructures-and-algorithms)](https://roadmap.sh)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
